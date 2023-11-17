@@ -1,0 +1,29 @@
+body {
+    background-image: url(img/惠惠.webp);
+        background-repeat: no-repeat;
+        background-position: center top;
+        /* 把背景图片固定住 */
+        background-attachment: fixed;
+        background-size: cover;
+}
+.ta {
+    background-color: aliceblue;
+}
+* {
+    color: red;
+}
+.c-aqua {
+    color: aqua;
+}
+.c-greeny {
+    color: greenyellow;
+}
+c-ablue {
+    color: aliceblue;
+}
+.center {
+    text-align: center;
+}
+.px12 {
+    font-size: 12px;
+}
